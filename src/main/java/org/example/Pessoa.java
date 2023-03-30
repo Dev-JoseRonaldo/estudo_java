@@ -3,7 +3,7 @@ package org.example;
 public class Pessoa {
     private String nome;
     private String cpf;
-    private int dataNascimento;
+    private int anoNascimento;
 
     public String getNome() {
         return nome;
@@ -21,11 +21,11 @@ public class Pessoa {
         this.cpf = cpf;
     }
 
-    public int getDataNascimento() {
-        return dataNascimento;
+    public int getAnoNascimento() {
+        return anoNascimento;
     }
 
-    public void setDataNascimento(int dataNascimento) {
-        this.dataNascimento = dataNascimento;
+    public void setAnoNascimento(int anoNascimento) {
+        this.anoNascimento = anoNascimento;
     }
 }

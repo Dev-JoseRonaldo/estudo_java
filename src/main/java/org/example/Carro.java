@@ -49,7 +49,7 @@ public class Carro {
         System.out.println("\nProprietário: ");
         System.out.println("nome: " + this.proprietario.getNome());
         System.out.println("Cpf: " + this.proprietario.getCpf());
-        System.out.println("Ano de nascimento: " + this.proprietario.getDataNascimento());
+        System.out.println("Ano de nascimento: " + this.proprietario.getAnoNascimento());
         System.out.println("\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -");
     }
 }
