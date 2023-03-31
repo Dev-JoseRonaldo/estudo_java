@@ -66,15 +66,17 @@ public class Carro {
         System.out.println("\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -");
     }
 
-    public double calcularValorRevenda() {
+    public int calcularTempoDeUso() {
         Date date = new Date();
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(date);
         int ano = calendar.get(Calendar.YEAR);
 
-        int tempoDeUsoEmAnos = ano - this.anoFabricacao;
+        return ano - this.anoFabricacao;
+    }
 
-        double valorRevenda = (precoCompra / 20) * (20 - tempoDeUsoEmAnos);
+    public double calcularValorRevenda() {
+        double valorRevenda = (precoCompra / 20) * (20 - this.calcularTempoDeUso());
 
         if (valorRevenda < 0) {
             valorRevenda = 0;
