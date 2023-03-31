@@ -18,16 +18,18 @@ public class Main {
         carro2.setAnoFabricacao(2019);
         carro2.setCor("Verde");
         carro2.setModelo("512451");
-        carro2.setPrecoCompra(25000.0);
+        carro2.setPrecoCompra(92000.0);
         carro2.proprietario = new Pessoa();
         carro2.proprietario.setNome("Luiz");
         carro2.proprietario.setCpf("107.201.458-74");
         carro2.proprietario.setAnoNascimento(2000);
 
         meuCarro.listarPropriedades();
-        carro2.listarPropriedades();
+        meuCarro.imprimirResumoDepreciacao();
 
-        System.out.println("\nValor da revenda: " + meuCarro.calcularValorRevenda());
-        System.out.println("\nValor da revenda: " + carro2.calcularValorRevenda());
+        carro2.listarPropriedades();
+        carro2.imprimirResumoDepreciacao();
+
+
     }
 }

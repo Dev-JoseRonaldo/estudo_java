@@ -63,7 +63,6 @@ public class Carro {
         System.out.println("nome: " + this.proprietario.getNome());
         System.out.println("Cpf: " + this.proprietario.getCpf());
         System.out.println("Ano de nascimento: " + this.proprietario.getAnoNascimento());
-        System.out.println("\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -");
     }
 
     public int calcularTempoDeUso() {
@@ -83,5 +82,10 @@ public class Carro {
         }
 
         return valorRevenda;
+    }
+
+    public void imprimirResumoDepreciacao() {
+        System.out.println("\nTempo de uso: " + this.calcularTempoDeUso());
+        System.out.println("Valor da revenda: " + this.calcularValorRevenda());
     }
 }
