@@ -65,6 +65,10 @@ public class Carro {
         System.out.println("Ano de nascimento: " + this.proprietario.getAnoNascimento());
     }
 
+    public double calcularIpva() {
+        return this.calcularValorRevenda() * 0.04;
+    }
+
     public int calcularTempoDeUso() {
         Date date = new Date();
         Calendar calendar = Calendar.getInstance();
