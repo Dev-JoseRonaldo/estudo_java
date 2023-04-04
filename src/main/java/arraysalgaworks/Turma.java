@@ -1,10 +1,18 @@
 package arraysalgaworks;
 
+import java.util.Arrays;
+
 public class Turma {
     String id;
     String nome;
     String nomeProfessor;
-    Aluno[] alunos;
+    Aluno[] alunos = new Aluno[0];
+
+    //método para adicionar um novo aluno, descartando assim, a necessidade de informar o tamanho inicial do array
+    void adicionarAluno(Aluno aluno) {
+        this.alunos = Arrays.copyOf(this.alunos, this.alunos.length + 1);
+        this.alunos[this.alunos.length - 1] = aluno;
+    }
 
     public void listarInformacoesTurma(){
         System.out.printf("Turma: %s (%s)%n", this.nome, this.id);

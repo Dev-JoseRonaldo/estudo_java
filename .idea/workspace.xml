@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: declarando arrays de objetos(classes)">
+    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: iterando arrays de objetos(classes)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Turma.java" afterDir="false" />
     </list>
@@ -79,9 +79,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysalgaworks.Main3" />
+      <module name="aula-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysalgaworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -172,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680623182423</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat: iterando arrays de objetos(classes)">
+      <created>1680624171260</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680624171260</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +207,7 @@
     <MESSAGE value="feat: iterating arrays" />
     <MESSAGE value="feat: usando métodos do objeto Array" />
     <MESSAGE value="feat: declarando arrays de objetos(classes)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: declarando arrays de objetos(classes)" />
+    <MESSAGE value="feat: iterando arrays de objetos(classes)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: iterando arrays de objetos(classes)" />
   </component>
 </project>
