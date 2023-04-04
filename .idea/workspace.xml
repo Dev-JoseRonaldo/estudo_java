@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: iterating arrays">
+    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: usando métodos do objeto Array">
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Turma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2NjkIqb9ZvLbErQgMBLcQppdHLV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraysalgaworks.Main" />
       <module name="aula-poo" />
@@ -63,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysalgaworks.Main2" />
+      <module name="aula-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysalgaworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -141,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680621774545</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: usando métodos do objeto Array">
+      <created>1680622416613</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680622416614</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,6 +177,18 @@
     <MESSAGE value="feat: add calcularIpva method" />
     <MESSAGE value="feat: arrays: declaration forms" />
     <MESSAGE value="feat: iterating arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: iterating arrays" />
+    <MESSAGE value="feat: usando métodos do objeto Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: usando métodos do objeto Array" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
