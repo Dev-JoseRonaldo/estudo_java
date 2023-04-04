@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: usando métodos do objeto Array">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Turma.java" afterDir="false" />
+    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: declarando arrays de objetos(classes)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Turma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680622416614</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: declarando arrays de objetos(classes)">
+      <created>1680623182423</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680623182423</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,17 +185,7 @@
     <MESSAGE value="feat: arrays: declaration forms" />
     <MESSAGE value="feat: iterating arrays" />
     <MESSAGE value="feat: usando métodos do objeto Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: usando métodos do objeto Array" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="feat: declarando arrays de objetos(classes)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: declarando arrays de objetos(classes)" />
   </component>
 </project>

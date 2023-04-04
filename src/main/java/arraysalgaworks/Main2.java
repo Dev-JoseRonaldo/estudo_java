@@ -4,6 +4,7 @@ public class Main2 {
     public static void main(String[] args) {
         Turma turmaA = new Turma();
         turmaA.id = "1248755";
+        turmaA.nome = "3°A";
         turmaA.nomeProfessor = "Jorge Alencar";
         turmaA.alunos = new Aluno[3];
 
@@ -17,5 +18,7 @@ public class Main2 {
         turmaA.alunos[1].idade = 17;
         turmaA.alunos[2].nome = "Lais";
         turmaA.alunos[2].idade = 13;
+
+        turmaA.listarInformacoesTurma();
     }
 }

@@ -21,5 +21,6 @@ public class Main {
 
         Arrays.sort(notas, Comparator.reverseOrder());
         System.out.println("Notas Ordenadas Decrescente: " + Arrays.toString(notas));
+
     }
 }
