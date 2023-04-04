@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: arrays: declaration forms">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Calculadora.java" afterDir="false" />
+    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: iterating arrays">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Calculadora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680620586484</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: iterating arrays">
+      <created>1680621774545</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680621774545</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +152,7 @@
     <MESSAGE value="feat: add imprimirResumoDepreciacao method" />
     <MESSAGE value="feat: add calcularIpva method" />
     <MESSAGE value="feat: arrays: declaration forms" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: arrays: declaration forms" />
+    <MESSAGE value="feat: iterating arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: iterating arrays" />
   </component>
 </project>

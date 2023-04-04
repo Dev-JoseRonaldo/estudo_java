@@ -2,7 +2,7 @@ package arraysalgaworks;
 
 public class Calculadora {
 
-    static double calcularMedia(int[] numeros) {
+    static double calcularMedia(Integer[] numeros) {
         int total = 0;
 
         //for-each
