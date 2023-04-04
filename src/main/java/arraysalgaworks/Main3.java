@@ -18,5 +18,17 @@ public class Main3 {
         //copiando e expandindo arrays
         int[] numerosJogo4 = Arrays.copyOf(numerosJogo1, numerosJogo1.length + 1);
         System.out.println("Array copiado e expandido (length maior): " + Arrays.toString(numerosJogo4));
+
+        //excluindo elemento do array
+        int indexDeExclusao = 2;
+        int[] arrayInicial = { 25, 64, 17, 5, 32, 54, 21};
+        int[] arrayFinal = new int[arrayInicial.length - 1];
+
+        System.arraycopy(arrayInicial, 0 , arrayFinal, 0, indexDeExclusao);
+        System.arraycopy(arrayInicial, indexDeExclusao + 1, arrayFinal, indexDeExclusao, arrayFinal.length - indexDeExclusao);
+
+        System.out.println(Arrays.toString(arrayInicial));
+        System.out.println(Arrays.toString(arrayFinal));
+
     }
 }

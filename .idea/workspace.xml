@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: iterando arrays de objetos(classes)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main3.java" afterDir="false" />
+    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="feat: criando array com tamanho dinâmico">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Turma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Main3">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraysalgaworks.Main" />
       <module name="aula-poo" />
@@ -94,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -193,7 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680624171260</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: copiando e expandindo arrays">
+      <created>1680625529212</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680625529212</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: criando array com tamanho dinâmico">
+      <created>1680625551594</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680625551594</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +220,8 @@
     <MESSAGE value="feat: usando métodos do objeto Array" />
     <MESSAGE value="feat: declarando arrays de objetos(classes)" />
     <MESSAGE value="feat: iterando arrays de objetos(classes)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: iterando arrays de objetos(classes)" />
+    <MESSAGE value="feat: copiando e expandindo arrays" />
+    <MESSAGE value="feat: criando array com tamanho dinâmico" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: criando array com tamanho dinâmico" />
   </component>
 </project>
