@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="    feat: sobreposição">
+    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="    feat: palavra &quot;final&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exerciciopolimorfismo1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exerciciopolimorfismo1/entites/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exerciciopolimorfismo1/entites/FuncionarioTerceirizado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/BusinessAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/BusinessAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/SavingsAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.exercicioheranca.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AtividadePoo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AtividadePoo.Main" />
       <module name="aula-poo" />
@@ -65,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysalgaworks.Main3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciciopolimorfismo1.Main" />
       <module name="aula-poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysalgaworks.*" />
+          <option name="PATTERN" value="exerciciopolimorfismo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.exercicioheranca.Main" />
         <item itemvalue="Application.exerciciocomposicao1.Main" />
         <item itemvalue="Application.AtividadePoo.Main" />
         <item itemvalue="Application.Main4" />
-        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680721124873</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="    feat: palavra &quot;final&quot;">
+      <created>1680721638155</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680721638155</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -307,7 +315,8 @@
     <MESSAGE value="    feat: exercicio 1 composição de objetos" />
     <MESSAGE value="    feat: herança, upcasting, downcasting" />
     <MESSAGE value="    feat: sobreposição" />
-    <option name="LAST_COMMIT_MESSAGE" value="    feat: sobreposição" />
+    <MESSAGE value="    feat: palavra &quot;final&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="    feat: palavra &quot;final&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
