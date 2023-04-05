@@ -24,4 +24,10 @@ public class SavingsAccount extends Account {
     public void updateBalance() {
         balance += balance * interestRate;
     }
+
+    //sobreposição: reescrevendo o método
+    @Override
+    public void withdraw(double amount) {
+        balance -= amount;
+    }
 }
