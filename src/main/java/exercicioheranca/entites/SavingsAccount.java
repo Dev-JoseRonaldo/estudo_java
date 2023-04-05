@@ -27,7 +27,8 @@ public class SavingsAccount extends Account {
 
     //sobreposição: reescrevendo o método
     @Override
-    public void withdraw(double amount) {
+    //métodos "final" impedem que eles sofram overrides, classes "final" impedem a criação de subclasses delas
+    public final void withdraw(double amount) {
         balance -= amount;
     }
 }

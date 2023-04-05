@@ -29,7 +29,8 @@ public class BusinessAccount extends Account{
 
     //sobreposição: usando o metodo da super classe e adicionando novas funcionalidades
     @Override
-    public void withdraw(double amount) {
+    //métodos "final" impedem que eles sofram overrides, classes "final" impedem a criação de subclasses delas
+    public final void withdraw(double amount) {
         super.withdraw(amount);
         balance -= 2.0;
     }

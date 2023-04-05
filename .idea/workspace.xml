@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="    feat: herança, upcasting, downcasting">
+    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="    feat: sobreposição">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/BusinessAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/BusinessAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/SavingsAccount.java" afterDir="false" />
     </list>
@@ -277,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680720376969</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="    feat: sobreposição">
+      <created>1680721124873</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1680721124873</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -300,7 +306,8 @@
     <MESSAGE value="feat: exercicio Enum pt.1" />
     <MESSAGE value="    feat: exercicio 1 composição de objetos" />
     <MESSAGE value="    feat: herança, upcasting, downcasting" />
-    <option name="LAST_COMMIT_MESSAGE" value="    feat: herança, upcasting, downcasting" />
+    <MESSAGE value="    feat: sobreposição" />
+    <option name="LAST_COMMIT_MESSAGE" value="    feat: sobreposição" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
