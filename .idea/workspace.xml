@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="    feat: exercício 2 polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/application/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/entites/Cicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/entites/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/entites/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/entites/enums/Color.java" afterDir="false" />
+    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="    feat: exercício de fixação polimorfismo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioheranca/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/ImportedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/entites/ImportedProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/entites/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/UsedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/entites/UsedProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaJuridica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +49,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exercicioMetodoAbstrato.application.Main">
+  <component name="RunManager" selected="Application.exercicioPolimorfismoFixacao.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exerciciopolimorfismo1.Main" />
       <module name="aula-poo" />
@@ -84,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exerciciocomposicao1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerciciocomposicao1.Main" />
+    <configuration name="exercicioPolimorfismoFixacao.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicioPolimorfismoFixacao.Main" />
       <module name="aula-poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exerciciocomposicao1.*" />
+          <option name="PATTERN" value="exercicioPolimorfismoFixacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicioPolimorfismoFixacao.Main" />
         <item itemvalue="Application.exercicioMetodoAbstrato.application.Main" />
         <item itemvalue="Application.exercicioheranca.Main" />
         <item itemvalue="Application.exerciciopilomorfismo2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.exerciciocomposicao1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +309,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681136494006</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="    feat: exercício métodos abstratos">
+      <created>1681139906332</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1681139906332</updated>
+    </task>
+    <task id="LOCAL-00027" summary="    feat: exercício de fixação polimorfismo">
+      <created>1681143541758</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1681143541758</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -344,7 +350,9 @@
     <MESSAGE value="    feat: palavra &quot;final&quot;" />
     <MESSAGE value="    feat: exercício 1 polimorfismo" />
     <MESSAGE value="    feat: exercício 2 polimorfismo" />
-    <option name="LAST_COMMIT_MESSAGE" value="    feat: exercício 2 polimorfismo" />
+    <MESSAGE value="    feat: exercício métodos abstratos" />
+    <MESSAGE value="    feat: exercício de fixação polimorfismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="    feat: exercício de fixação polimorfismo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
