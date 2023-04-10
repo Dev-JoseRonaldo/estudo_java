@@ -1,4 +1,4 @@
-package exerciciopilomorfismo2;
+package exerciciopilomorfismo2.entites;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

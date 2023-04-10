@@ -1,4 +1,4 @@
-package exerciciopilomorfismo2;
+package exerciciopilomorfismo2.entites;
 
 public class ImportedProduct extends Product {
     private Double customsFee;

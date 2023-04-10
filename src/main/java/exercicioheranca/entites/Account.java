@@ -1,6 +1,6 @@
 package exercicioheranca.entites;
 
-public class Account {
+public abstract class Account {
     private Integer number;
     private String holder;
     protected double balance;

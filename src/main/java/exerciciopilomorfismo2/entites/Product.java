@@ -1,4 +1,4 @@
-package exerciciopilomorfismo2;
+package exerciciopilomorfismo2.entites;
 
 public class Product {
     protected String name;

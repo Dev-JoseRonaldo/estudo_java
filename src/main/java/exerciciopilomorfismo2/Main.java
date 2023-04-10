@@ -1,5 +1,9 @@
 package exerciciopilomorfismo2;
 
+import exerciciopilomorfismo2.entites.ImportedProduct;
+import exerciciopilomorfismo2.entites.Product;
+import exerciciopilomorfismo2.entites.UsedProduct;
+
 import java.text.SimpleDateFormat;
 
 
