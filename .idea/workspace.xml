@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="    feat: palavra &quot;final&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exerciciopolimorfismo1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exerciciopolimorfismo1/entites/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exerciciopolimorfismo1/entites/FuncionarioTerceirizado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="    feat: exercício 2 polimorfismo">
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/ImportedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/ImportedProduct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2NjkIqb9ZvLbErQgMBLcQppdHLV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,18 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ronaldo/workpace-sts/api-rest-spring-algalog&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ronaldo/workpace-sts/api-rest-spring-algalog",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.exerciciopilomorfismo2.Main">
     <configuration name="AtividadePoo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AtividadePoo.Main" />
       <module name="aula-poo" />
@@ -72,19 +66,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exerciciopolimorfismo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysalgaworks.Main4" />
-      <module name="aula-poo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraysalgaworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exerciciopilomorfismo2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciciopilomorfismo2.Main" />
+      <module name="aula-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exerciciopilomorfismo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exerciciopilomorfismo2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.exercicioheranca.Main" />
         <item itemvalue="Application.exerciciocomposicao1.Main" />
         <item itemvalue="Application.AtividadePoo.Main" />
-        <item itemvalue="Application.Main4" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +285,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680721638155</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="    feat: exercício 1 polimorfismo">
+      <created>1680724260169</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1680724260169</updated>
+    </task>
+    <task id="LOCAL-00024" summary="    feat: exercício 2 polimorfismo">
+      <created>1681136315214</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1681136315214</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -316,7 +324,9 @@
     <MESSAGE value="    feat: herança, upcasting, downcasting" />
     <MESSAGE value="    feat: sobreposição" />
     <MESSAGE value="    feat: palavra &quot;final&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="    feat: palavra &quot;final&quot;" />
+    <MESSAGE value="    feat: exercício 1 polimorfismo" />
+    <MESSAGE value="    feat: exercício 2 polimorfismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="    feat: exercício 2 polimorfismo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
