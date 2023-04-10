@@ -6,9 +6,46 @@
   <component name="ChangeListManager">
     <list default="true" id="2ff5abe3-48af-4c21-8258-aa14f8cf90c6" name="Changes" comment="    feat: exercício de fixação polimorfismo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaFisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaJuridica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AtividadePoo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/atividadePoo/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AtividadePoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/atividadePoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysalgaworks/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/Turma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioEnum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Enum/exercicioEnum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioEnum/entites/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Enum/exercicioEnum/entites/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioEnum/entites/enums/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Enum/exercicioEnum/entites/enums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioMetodoAbstrato/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/entites/Cicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioMetodoAbstrato/entites/Cicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/entites/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioMetodoAbstrato/entites/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/entites/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioMetodoAbstrato/entites/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioMetodoAbstrato/entites/enums/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioMetodoAbstrato/entites/enums/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismoFixacao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismoFixacao/entites/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismoFixacao/entites/PessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioPolimorfismoFixacao/entites/PessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismoFixacao/entites/PessoaJuridica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciocomposicao1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioComposicao1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciocomposicao1/entites/ContratoHora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioComposicao1/entites/ContratoHora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciocomposicao1/entites/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioComposicao1/entites/Departamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciocomposicao1/entites/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioComposicao1/entites/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciocomposicao1/entites/enums/NivelFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioComposicao1/entites/enums/NivelFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioHeranca/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioHeranca/entites/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/BusinessAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioHeranca/entites/BusinessAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicioheranca/entites/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioHeranca/entites/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismo2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/entites/ImportedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismo2/entites/ImportedProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/entites/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismo2/entites/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopilomorfismo2/entites/UsedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismo2/entites/UsedProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopolimorfismo1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismo1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopolimorfismo1/entites/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismo1/entites/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerciciopolimorfismo1/entites/FuncionarioTerceirizado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/exercicioPolimorfismo1/entites/FuncionarioTerceirizado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/example/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/POO/example/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +86,26 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exercicioPolimorfismoFixacao.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerciciopolimorfismo1.Main" />
+      <option name="MAIN_CLASS_NAME" value="POO.exercicioPolimorfismoFixacao.Main" />
       <module name="aula-poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exerciciopolimorfismo1.*" />
+          <option name="PATTERN" value="POO.exercicioPolimorfismoFixacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrays.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Main" />
+      <module name="aula-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,26 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exerciciopilomorfismo2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerciciopilomorfismo2.Main" />
-      <module name="aula-poo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exerciciopilomorfismo2.entites.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.arrays.Main" />
         <item itemvalue="Application.exercicioPolimorfismoFixacao.Main" />
         <item itemvalue="Application.exercicioMetodoAbstrato.application.Main" />
         <item itemvalue="Application.exercicioheranca.Main" />
-        <item itemvalue="Application.exerciciopilomorfismo2.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -353,16 +390,5 @@
     <MESSAGE value="    feat: exercício métodos abstratos" />
     <MESSAGE value="    feat: exercício de fixação polimorfismo" />
     <option name="LAST_COMMIT_MESSAGE" value="    feat: exercício de fixação polimorfismo" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/exerciciocomposicao1/Main.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
